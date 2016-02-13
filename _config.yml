@@ -1,6 +1,6 @@
 name: 'Oplyst International, LLC.'
 favicon: null
-layout_spectrum: 0.261824
+layout_spectrum: 0.203
 typography_spectrum: 0.930743
 title: Oply.co
 cta:
@@ -22,8 +22,8 @@ color:
     - '#01ffff'
     - '#a3a8aa'
     - '#fdfc02'
-  brandStrength: 0.9375
-  lightness: 0.4375
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
