@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Oplyst International, LLC | Official Website]]></title>
-        <description><![CDATA[Oplyst International, LLC | Official Website]]></description>
+        <title><![CDATA[Oply.co]]></title>
+        <description><![CDATA[Oply.co]]></description>
         <link>http://oply.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 02:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 06:38:52 GMT</lastBuildDate>
         <atom:link href="http://oply.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a77ae72-c0b0-4c95-9b89-4d5b4c52e113.jpg">]]></description>
+            <title><![CDATA[Welcome ]]></title>
+            <description><![CDATA[<article><h1>Welcome </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7661878a289c1ed6c2d0fe9b5a1891b032251218.jpg"></article>]]></description>
             <link>http://oply.co/5e182f6c-aaad-427e-be61-1aa0dce8751f/index.html</link>
             <guid isPermaLink="false">5e182f6c-aaad-427e-be61-1aa0dce8751f</guid>
-            <pubDate>Fri, 12 Feb 2016 02:09:56 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 06:38:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
