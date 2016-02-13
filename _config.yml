@@ -1,5 +1,20 @@
+name: 'Oplyst International, LLC.'
+favicon: null
+layout_spectrum: 0.261824
+typography_spectrum: 0.930743
+title: Oply.co
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-73702823-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#060808'
@@ -9,11 +24,6 @@ color:
     - '#fdfc02'
   brandStrength: 0.9375
   lightness: 0.4375
-  rhythmicContrast: 0.5
   saturation: 0.75
-cta: {}
-layout_spectrum: 0.261824
-name: 'Oplyst International, LLC'
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.930743
