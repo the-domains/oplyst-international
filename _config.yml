@@ -1,20 +1,5 @@
-name: '| Oplyst International, LLC'
-favicon: null
-layout_spectrum: 0.203
-typography_spectrum: 0.930743
-title: Oply Consulting
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-73702823-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#060808'
@@ -24,6 +9,11 @@ color:
     - '#fdfc02'
   brandStrength: 1
   lightness: 0.625
-  saturation: 0.375
   rhythmicContrast: 0.75
+  saturation: 0.375
+cta: {}
+layout_spectrum: 0.217061
+name: '| Oplyst International, LLC'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.930743
