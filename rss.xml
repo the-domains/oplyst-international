@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[| Oplyst International, LLC]]></title>
-        <description><![CDATA[| Oplyst International, LLC]]></description>
+        <title><![CDATA[Innovation through Inspiration]]></title>
+        <description><![CDATA[Innovation through Inspiration]]></description>
         <link>http://oply.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 04:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 04:36:47 GMT</lastBuildDate>
         <atom:link href="http://oply.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to]]></title>
-            <description><![CDATA[<p>Oply Consulting | an Oplyst International, LLC service</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aa2da12-d2b3-4039-a599-704945cd75ba.jpg">]]></description>
             <link>http://oply.co/5e182f6c-aaad-427e-be61-1aa0dce8751f/index.html</link>
             <guid isPermaLink="false">5e182f6c-aaad-427e-be61-1aa0dce8751f</guid>
-            <pubDate>Sun, 21 Aug 2016 04:24:01 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 04:36:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
