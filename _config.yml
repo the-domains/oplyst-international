@@ -1,5 +1,4 @@
-analytics:
-  google: UA-73702823-1
+typography_spectrum: 0.930743
 color:
   brandColors:
     - '#060808'
@@ -11,9 +10,10 @@ color:
   lightness: 0.625
   rhythmicContrast: 0.75
   saturation: 0.375
-cta: {}
-layout_spectrum: 0.217061
-name: '| Oplyst International, LLC'
 opengraph: {}
+layout_spectrum: 0.217061
+analytics:
+  google: UA-73702823-1
+name: '| Oplyst International, LLC'
+cta: {}
 purpose: []
-typography_spectrum: 0.930743
